@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Cookie&family=Dosis:wght@200..800&family=EB+Garamond:ital,wght@0,400..800;1,400..800&family=Oleo+Script:wght@400;700&family=Playball&family=Sour+Gummy:ital,wght@0,100..900;1,100..900&display=swap');
+/* Our team Members */
+
+#team{
+    background-color: blueviolet;
+}
+
+#team h2{
+    font-family: "Audiowide", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: bold;
+    font-style: normal;
+    font-variation-settings: "wdth" 100;
+    color: azure;
+    text-align: center;
+    margin-bottom:20px;
+    padding-top:40px;
+}
+
+#team h3{
+    font-family: "Sour Gummy", serif;
+    font-optical-sizing: auto;
+    font-weight:normal;
+    font-style: normal;
+    font-variation-settings:
+    "wdth" 100;
+    color:azure;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+#team h4{
+    color: azure;
+    text-align:center;
+    margin-bottom:40px;
+}
+
+#team .card img{
+    padding:20px;
+}
